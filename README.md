@@ -1,2 +1,2 @@
 # Amazon_data_process
-Simple Pr-processing on amazon data
+Simple Pre-processing on amazon data
